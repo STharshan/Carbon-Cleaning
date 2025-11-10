@@ -6,21 +6,21 @@ import "aos/dist/aos.css";
 
 const services = [
   {
-    title: "Alloy Wheel Repair",
-    desc: `Remove scuffs, scratches, and damage for wheels that look brand new.`,
+    title: "Diagnostic",
+    desc: `Automotive diagnostics involves using specialized tools to identify and analyze issues in a vehicle.​`,
     image: "/carpaint.avif",
     path: "/services/mechanical",
   },
   {
-    title: "Dent Removal",
-    desc: `Seamless dent repair to restore panels back to factory condition.
+    title: "Carbon Cleaning",
+    desc: `removing built-up carbon, sludge, and contaminants from inside the engine to improve performance, efficiency, and longevity.
 ​`,
     image: "/gray.avif",
     path: "/services/service",
   },
   {
-    title: "Bumper Repair",
-    desc: `Repair cracked or scuffed bumpers to a smooth, like-new finish.`,
+    title: "Mechanical",
+    desc: `The repair and maintenance of a vehicle's engine, transmission, brakes, suspension, and other vital components`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },

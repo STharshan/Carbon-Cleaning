@@ -14,8 +14,8 @@ const AboutSection = () => {
 
   const testimonials = [
   {
-    text: "Wow, so glad I didn't listen to negative reviews.Absolutely amazing job done on removing Dent and respray.1st class service, communication and quality work at a fantastic price, answered any questions promptly.100% use again and highly recommend. 5* plus.",
-    name: "Amy Mccarty",
+    text: "I was recommended Nottingham Carbon Cleaning Solutions by a friend. I got my C250d done achieved extra 7mpg the engine is super quiet now. Was super happy with the service I received. Today i got my Mercedes Vito dpf cleaned it drives perfectly. Top bloke really kind and helpful much appreciated. No pressure sales or tactics involved. 100% honest guy so ill be recommending to all friends and family",
+    name: "Azeem",
   },
 
 ]
